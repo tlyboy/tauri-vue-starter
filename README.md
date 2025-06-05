@@ -101,7 +101,7 @@
 
 ## 常见问题
 
-- Tauri 相关依赖或打包问题请参考 [Tauri 官方文档](https://tauri.app/zh-cn/docs/)
+- Tauri 相关依赖或打包问题请参考 [Tauri 官方文档](https://tauri.app/zh-cn/)
 - 如需集成更多插件或功能，欢迎提 Issue 或 PR
 
 ## 使用许可
