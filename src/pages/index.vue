@@ -1,3 +1,3 @@
 <template>
-  <div>Tauri Vue Starter</div>
+  <div>Tauri Vue starter</div>
 </template>

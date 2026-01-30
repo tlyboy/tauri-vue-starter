@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "Tauri Vue Starter",
+  "productName": "Tauri Vue starter",
   "version": "0.1.0",
   "identifier": "com.tlyboy.tauri-vue-starter",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "Tauri Vue Starter",
+        "title": "Tauri Vue starter",
         "width": 800,
         "height": 600
       }
