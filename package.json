@@ -17,14 +17,14 @@
     "pinia": "^3.0.4",
     "pinia-plugin-persistedstate": "^4.7.1",
     "tailwindcss": "^4.2.1",
-    "vue": "^3.5.29",
+    "vue": "^3.5.30",
     "vue-router": "^5.0.3"
   },
   "devDependencies": {
     "@egoist/tailwindcss-icons": "^1.9.2",
-    "@iconify-json/carbon": "^1.2.18",
-    "@tauri-apps/cli": "^2.10.0",
-    "@types/node": "^24.10.13",
+    "@iconify-json/carbon": "^1.2.19",
+    "@tauri-apps/cli": "^2.10.1",
+    "@types/node": "^24.12.0",
     "@vitejs/plugin-vue": "^6.0.4",
     "prettier": "^3.8.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
@@ -32,11 +32,11 @@
     "unplugin-auto-import": "^21.0.0",
     "unplugin-vue-components": "^31.0.0",
     "vite": "npm:rolldown-vite@latest",
-    "vite-plugin-vue-devtools": "^8.0.6",
+    "vite-plugin-vue-devtools": "^8.0.7",
     "vite-plugin-vue-layouts": "^0.11.0",
     "vue-tsc": "^3.2.5"
   },
-  "packageManager": "pnpm@10.30.2",
+  "packageManager": "pnpm@10.32.0",
   "engines": {
     "node": "24.x"
   }
